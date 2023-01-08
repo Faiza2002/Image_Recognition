@@ -1,1 +1,1 @@
-# Image_Recognition
+# Image Recognition using Support Vector Machine
